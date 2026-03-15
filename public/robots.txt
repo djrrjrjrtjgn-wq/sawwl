@@ -1,0 +1,14 @@
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: GitHub-Crawler
+Disallow: /
+
+User-agent: Vercel-Bot
+Disallow: /
+
+User-agent: *
+Disallow: /
